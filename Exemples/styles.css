@@ -1,0 +1,17 @@
+/* div {
+  background-color: aqua;
+  color: blueviolet;
+} */
+
+.c1 {
+  background-color: aqua;
+  color: blueviolet;
+}
+
+#idc1 {
+  border: 2px solid red;
+}
+
+button:hover {
+  background-color: blue;
+}
