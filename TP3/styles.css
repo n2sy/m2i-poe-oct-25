@@ -1,0 +1,74 @@
+body {
+  background-color: blanchedalmond;
+  color: mediumaquamarine;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  cursor: pointer;
+  border-bottom: 2px solid greenyellow;
+}
+
+h2 {
+  color: green;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 20px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+div {
+  background-color: white;
+  margin-bottom: 20x;
+  border: 1px solid grey;
+  border-radius: 20px;
+  padding: 10px 15px;
+}
+
+a {
+  color: brown;
+  font-weight: bold;
+}
+
+a:hover {
+  color: chartreuse;
+}
+
+blockquote {
+  font-style: italic;
+  /* border-left: 4px dashed grey; */
+  border-left: 4px solid grey;
+  padding-left: 10px;
+}
+
+#videos {
+  background-color: azure;
+}
+
+#apropos {
+  background-color: cadetblue;
+}
+
+#formations {
+  background-color: cornflowerblue;
+}
+#postes {
+  background-color: tomato;
+}
+#activites {
+  background-color: thistle;
+}
